@@ -1,0 +1,17 @@
+{
+  "name": "photoplus-downloader",
+  "version": "1.0.0",
+  "description": "photoplus downloader",
+  "author": "Romoo Chen",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "cac": "^6.7.12",
+    "cli-progress": "^3.9.1",
+    "js-md5": "^0.7.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.4.1",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.3"
+  }
+}
